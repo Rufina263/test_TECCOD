@@ -20,10 +20,7 @@
 ## Запуск проекта
 1. Склонируйте репозиторий:
 
-```
-git clone https://github.com/ВАШ_ПОЛЬЗОВАТЕЛЬ/airline-services.git
-cd airline-services
-```
+```git clone https://github.com/Rufina263/test_TECCOD.git```
 
 2. Установите зависимости:
 
